@@ -48,6 +48,7 @@ router.put("/workouts/:id", ({body, params}, res) => {
   });
 });
 
+// gets data for user dashboar
 router.get("/workouts/range", (req, res) => {
   Workout.aggregate([
     {
