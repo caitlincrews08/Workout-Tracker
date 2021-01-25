@@ -3,6 +3,6 @@ const apiRoutes = require('./apiRoutes');
 const htmlRoutes = require('./htmlRoutes');
 
 router.use('/', htmlRoutes);
-router.use('/', apiRoutes);
+router.use('/api', apiRoutes);
 
 module.exports = router;
