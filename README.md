@@ -28,8 +28,6 @@ npm i
 ## Link
 [Workout Tracker](https://desolate-plains-06411.herokuapp.com/)
 
-This is currently not working properly - working with my tutor to figure out why it is working locally but not on Heroku.
-
 ## Usage
 Start by navigating to the website using the link above.
 
