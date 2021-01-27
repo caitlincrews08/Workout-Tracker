@@ -26,7 +26,7 @@ npm i
 ```
 
 ## Link
-[Workout Tracker](https://workout-tracker22.herokuapp.com/)
+[Workout Tracker](https://desolate-plains-06411.herokuapp.com/)
 
 This is currently not working properly - working with my tutor to figure out why it is working locally but not on Heroku.
 
